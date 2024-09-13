@@ -12,3 +12,6 @@ def multiply(a, b):
 
 def rest_time():
     print('매 시간 50분은 쉬는 시간입니다.')
+
+def alram():
+    print('5분 뒤 쉬는 시간입니다')
